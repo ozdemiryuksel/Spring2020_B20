@@ -19,5 +19,6 @@ public class Frequency {
             int count = Collections.frequency(list,each);
             System.out.print(each+count);
         }
+        // add line
     }
 }
