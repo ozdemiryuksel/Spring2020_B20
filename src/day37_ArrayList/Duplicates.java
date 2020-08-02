@@ -36,31 +36,26 @@ public class Duplicates {
 
         gradeOfA.addAll(grades);
         gradeOfA.removeIf(p->p<90);
-        int sizeA = gradeOfA.size();
 
         gradeOfB.addAll(grades);
         gradeOfB.removeIf(p->p<80||p>=90);
-        int sizeB = gradeOfB.size();
 
         gradeOfC.addAll(grades);
         gradeOfC.removeIf(p->p<70||p>=80);
-        int sizeC = gradeOfC.size();
 
         gradeOfD.addAll(grades);
         gradeOfD.removeIf(p->p<60||p>=70);
-        int sizeD = gradeOfD.size();
 
         gradeOfF.addAll(grades);
         gradeOfF.removeAll(gradeOfA);
         gradeOfF.removeAll(gradeOfB);
         gradeOfF.removeAll(gradeOfC);
         gradeOfF.removeAll(gradeOfD);
-        int sizeF = gradeOfF.size();
 
-        System.out.println("A: "+sizeA);
-        System.out.println("B: "+sizeB);
-        System.out.println("D: "+sizeC);
-        System.out.println("D: "+sizeD);
-        System.out.println("F: "+sizeF);
+        System.out.println("A: "+gradeOfA.size());
+        System.out.println("B: "+gradeOfB.size());
+        System.out.println("C: "+gradeOfC.size());
+        System.out.println("D: "+gradeOfD.size());
+        System.out.println("F: "+gradeOfF.size());
     }
 }
