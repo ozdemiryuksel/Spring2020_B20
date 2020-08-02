@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0be319f-5bac-4601-88a0-5892f95bd31e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/day37_ArrayList/Practice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020_B20/day37_ArrayList/BulkOperationsPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020_B20/day37_ArrayList/BulkOperationsPractice.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/day37_ArrayList/BulkOperationsPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day37_ArrayList/BulkOperationsPractice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +33,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
-  <component name="RunManager" selected="Application.BulkOperationsPractice">
+  <component name="RunManager" selected="Application.Practice">
     <configuration name="BulkOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day37_ArrayList.BulkOperations" />
       <module name="Spring2020_B20" />
@@ -58,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CollectionsUtility" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day36_ArrayList.CollectionsUtility" />
+    <configuration name="Frequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day37_ArrayList.Frequency" />
       <module name="Spring2020_B20" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day36_ArrayList.*" />
+          <option name="PATTERN" value="day37_ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Frequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day37_ArrayList.Frequency" />
+    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day37_ArrayList.Practice" />
       <module name="Spring2020_B20" />
       <extension name="coverage">
         <pattern>
@@ -99,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Practice" />
         <item itemvalue="Application.BulkOperationsPractice" />
         <item itemvalue="Application.BulkOperations" />
         <item itemvalue="Application.Frequency" />
         <item itemvalue="Application.Replit" />
-        <item itemvalue="Application.CollectionsUtility" />
       </list>
     </recent_temporary>
   </component>
@@ -129,22 +131,22 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="237" y="182" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1596293452309" />
-    <state width="861" height="193" key="GridCell.Tab.0.bottom" timestamp="1596383579652">
+    <state width="861" height="193" key="GridCell.Tab.0.bottom" timestamp="1596386615135">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="861" height="193" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1596383579652" />
-    <state width="861" height="193" key="GridCell.Tab.0.center" timestamp="1596383579652">
+    <state width="861" height="193" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1596386615135" />
+    <state width="861" height="193" key="GridCell.Tab.0.center" timestamp="1596386615135">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="861" height="193" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1596383579652" />
-    <state width="861" height="193" key="GridCell.Tab.0.left" timestamp="1596383579652">
+    <state width="861" height="193" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1596386615135" />
+    <state width="861" height="193" key="GridCell.Tab.0.left" timestamp="1596386615135">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="861" height="193" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1596383579652" />
-    <state width="861" height="193" key="GridCell.Tab.0.right" timestamp="1596383579652">
+    <state width="861" height="193" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1596386615135" />
+    <state width="861" height="193" key="GridCell.Tab.0.right" timestamp="1596386615135">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="861" height="193" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1596383579652" />
+    <state width="861" height="193" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1596386615135" />
     <state width="926" height="268" key="GridCell.Tab.1.bottom" timestamp="1595796674438">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
