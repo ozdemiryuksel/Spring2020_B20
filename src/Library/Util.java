@@ -44,7 +44,7 @@ public class Util {
         String uniques = "";
 
         for(char each  : str.toCharArray() ){
-            int count =frequency(str, each);  // frequency of every character
+            int count = frequency(str, each);  // frequency of every character
             if(count == 1){
                 uniques += each;
             }
