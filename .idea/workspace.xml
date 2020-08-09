@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0be319f-5bac-4601-88a0-5892f95bd31e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day38_Recap/CollectionsUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day39_CustomClass/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day39_CustomClass/CarMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day39_CustomClass/CarObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day39_CustomClass/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day39_CustomClass/DogObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day39_CustomClass/DogPark.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020_B20/day35_ArrayList/Combine2ArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020_B20/day35_ArrayList/Combine2ArrayList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day35_ArrayList/Combine2ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day35_ArrayList/Combine2ArrayList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,13 +38,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
-  <component name="RunManager" selected="Application.CollectionsUtility (1)">
-    <configuration name="ArrayListMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day38_Recap.ArrayListMethods" />
+  <component name="RunManager" selected="Application.DogPark">
+    <configuration name="CarMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day39_CustomClass.CarMax" />
       <module name="Spring2020_B20" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day38_Recap.*" />
+          <option name="PATTERN" value="day39_CustomClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -45,12 +52,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CollectionsUtility (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day38_Recap.CollectionsUtility" />
+    <configuration name="CarObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day39_CustomClass.CarObjects" />
       <module name="Spring2020_B20" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day38_Recap.*" />
+          <option name="PATTERN" value="day39_CustomClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Duplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day37_ArrayList.Duplicates" />
+    <configuration name="DogPark" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day39_CustomClass.DogPark" />
       <module name="Spring2020_B20" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day37_ArrayList.*" />
+          <option name="PATTERN" value="day39_CustomClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GradeReport" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day38_Recap.GradeReport" />
+    <configuration name="quiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day39_CustomClass.quiz" />
       <module name="Spring2020_B20" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day38_Recap.*" />
+          <option name="PATTERN" value="day39_CustomClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Replit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day37_ArrayList.Replit" />
+    <configuration name="replit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day00.replit" />
       <module name="Spring2020_B20" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day37_ArrayList.*" />
+          <option name="PATTERN" value="day00.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CollectionsUtility (1)" />
-        <item itemvalue="Application.ArrayListMethods" />
-        <item itemvalue="Application.GradeReport" />
-        <item itemvalue="Application.Replit" />
-        <item itemvalue="Application.Duplicates" />
+        <item itemvalue="Application.DogPark" />
+        <item itemvalue="Application.CarMax" />
+        <item itemvalue="Application.CarObjects" />
+        <item itemvalue="Application.quiz" />
+        <item itemvalue="Application.replit" />
       </list>
     </recent_temporary>
   </component>
@@ -129,22 +136,22 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="237" y="182" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1596293452309" />
-    <state width="892" height="193" key="GridCell.Tab.0.bottom" timestamp="1596592598002">
+    <state width="813" height="193" key="GridCell.Tab.0.bottom" timestamp="1597003187831">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="892" height="193" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1596592598002" />
-    <state width="892" height="193" key="GridCell.Tab.0.center" timestamp="1596592598001">
+    <state width="813" height="193" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1597003187831" />
+    <state width="813" height="193" key="GridCell.Tab.0.center" timestamp="1597003187830">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="892" height="193" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1596592598001" />
-    <state width="892" height="193" key="GridCell.Tab.0.left" timestamp="1596592598001">
+    <state width="813" height="193" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1597003187830" />
+    <state width="813" height="193" key="GridCell.Tab.0.left" timestamp="1597003187830">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="892" height="193" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1596592598001" />
-    <state width="892" height="193" key="GridCell.Tab.0.right" timestamp="1596592598002">
+    <state width="813" height="193" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1597003187830" />
+    <state width="813" height="193" key="GridCell.Tab.0.right" timestamp="1597003187831">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="892" height="193" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1596592598002" />
+    <state width="813" height="193" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1597003187831" />
     <state width="926" height="268" key="GridCell.Tab.1.bottom" timestamp="1595796674438">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -165,10 +172,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="93" y="100" width="797" height="648" key="dock-window-1/0.0.1600.860@0.0.1600.860" timestamp="1595777474248" />
-    <state x="-7" y="58" width="952" height="747" key="new project wizard" timestamp="1596576495764">
+    <state x="-7" y="58" width="952" height="747" key="new project wizard" timestamp="1596670576763">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="-7" y="58" width="952" height="747" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1596576495764" />
+    <state x="-7" y="58" width="952" height="747" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1596670576763" />
     <state x="161" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1595781772545">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
